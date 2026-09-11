@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">A passionate Backend Developer from the UK</h3>
+# Hi, I'm Jules
 
-- 📫 How to reach me **juleslockey2003@gmail.com**
+Physics graduate from Leeds who builds and ships software across full-stack, data and machine learning. I've spent the last year building things rather than in a classroom, most of it with coding agents alongside me, though every decision along the way was mine.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jules lockey laplanche-lionnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules lockey laplanche-lionnet" height="30" width="40" /></a>
-<a href="https://instagram.com/juleslockey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juleslockey" height="30" width="40" /></a>
-</p>
+## What I've built
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **[TipOff](https://github.com/juleslockey03/TipOff):** a pickup basketball app I built on my own, [live on the App Store](https://apps.apple.com/gb/app/tipoff-mobile/id6757429916). React Native, TypeScript and a PostgreSQL schema I designed across 54 migrations.
+- **[NBA_Predictor](https://github.com/juleslockey03/NBA_Predictor):** a model predicting NBA games, priced against live bookmaker odds. The README covers the data leak that made my first version look far better than it was.
+- **[rl-control-web](https://github.com/juleslockey03/rl-control-web):** a six-person bootcamp project training a reinforcement learning agent to steady a crane on a ship. I built the dashboard and the rendering pipeline.
 
+## Tools I use most
+
+Python · TypeScript · SQL · PostgreSQL · React Native · Supabase · scikit-learn · pandas · Git · Docker · Claude Code
+
+## Right now
+
+Looking for graduate and junior roles in software, data or ML, in London or remote, and open to Paris, Amsterdam, Barcelona and Lisbon too.
+
+juleslockey2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/jules-lockey-laplanche-885209295/)
